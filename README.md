@@ -1,11 +1,11 @@
-# Very short description of the package
+# Laravel Chargebee
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/csechrist/laravel-chargebee.svg?style=flat-square)](https://packagist.org/packages/csechrist/laravel-chargebee)
-[![Build Status](https://img.shields.io/travis/csechrist/laravel-chargebee/master.svg?style=flat-square)](https://travis-ci.org/csechrist/laravel-chargebee)
+[![Build Status](https://travis-ci.com/csechrist/laravel-chargebee.svg?branch=master)](https://travis-ci.com/csechrist/laravel-chargebee)
 [![Quality Score](https://img.shields.io/scrutinizer/g/csechrist/laravel-chargebee.svg?style=flat-square)](https://scrutinizer-ci.com/g/csechrist/laravel-chargebee)
 [![Total Downloads](https://img.shields.io/packagist/dt/csechrist/laravel-chargebee.svg?style=flat-square)](https://packagist.org/packages/csechrist/laravel-chargebee)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+A Laravel 7 package to implement Chargebee billing with subscription management
 
 ## Installation
 
@@ -17,13 +17,13 @@ composer require csechrist/laravel-chargebee
 
 ## Usage
 
-``` php
+```php
 // Usage description here
 ```
 
 ### Testing
 
-``` bash
+```bash
 composer test
 ```
 
@@ -41,13 +41,9 @@ If you discover any security related issues, please email cam@camsechrist.com in
 
 ## Credits
 
-- [Cameron Sechrist](https://github.com/csechrist)
-- [All Contributors](../../contributors)
+-   [Cameron Sechrist](https://camsechrist.com)
+-   [All Contributors](../../contributors)
 
 ## License
 
 The Apache License 2. Please see [License File](LICENSE.md) for more information.
-
-## Laravel Package Boilerplate
-
-This package was generated using the [Laravel Package Boilerplate](https://laravelpackageboilerplate.com).
